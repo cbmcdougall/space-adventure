@@ -1,0 +1,50 @@
+[
+    {
+      "title": "",
+      "body": "",
+      "options": {
+          "keyword1": {
+              "message": "",
+              "requirements": "",
+              "success": "",
+              "failure": "",
+              "successrate": "",
+              "rewardValue": "",
+              "severity": ""
+          },
+          "keyword2": {
+              "message": "",
+              "requirements": "",
+              "success": "",
+              "failure": "",
+              "successrate": "",
+              "rewardValue": "",
+              "severity": ""
+          }
+      }
+    },
+    {
+      "title": "",
+      "body": "",
+      "options": {
+          "keyword1": {
+              "message": "",
+              "requirements": "",
+              "success": "",
+              "failure": "",
+              "successrate": "",
+              "rewardValue": "",
+              "severity": ""
+          },
+          "keyword2": {
+              "message": "",
+              "requirements": "",
+              "success": "",
+              "failure": "",
+              "successrate": "",
+              "rewardValue": "",
+              "severity": ""
+          }
+      }
+    }
+  ]
