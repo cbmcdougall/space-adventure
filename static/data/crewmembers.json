@@ -1,20 +1,24 @@
 {
   "Jim": {
+    "pronouns": ["he", "him", "his"],
     "role": "first mate",
     "hp": "100",
     "status": "healthy"
   },
   "Sandra": {
+    "pronouns": ["she", "her", "her"],
     "role": "medical officer",
     "hp": "100",
     "status": "healthy"
   },
   "Scotty": {
+    "pronouns": ["he", "him", "his"],
     "role": "beamer-upper",
     "hp": "100",
     "status": "healthy"
   },
   "Nashandra": {
+    "pronouns": ["they", "them", "their"],
     "role": "science officer",
     "hp": "100",
     "status": "healthy"
