@@ -1,0 +1,38 @@
+{
+  "lowTier": [
+    {
+        "name": "ethereum(small)",
+        "description": "small amount of ethereum",
+        "effects": ["50-100 ethereum"]
+    },
+    {
+        "name": "crowbar(steel)",
+        "description": "crowbar made of medium-carbon steel",
+        "effects": ["opens basic containers"]
+    }
+  ],
+  "midTier": [
+    {
+        "name": "ethereum(moderate)",
+        "description": "moderate amount of ethereum",
+        "effects": ["100-250 ethereum"]
+    },
+    {
+        "name": "crowbar(titanium)",
+        "description": "crowbar made of titanium",
+        "effects": ["opens strong containers"]
+    }
+  ],
+  "highTier": [
+    {
+        "name": "ethereum(large)",
+        "description": "large amount of ethereum",
+        "effects": ["250-500 ethereum"]
+    },
+    {
+        "name": "laser rifle",
+        "description": "Aldebaran Corp standard-issue laser rifle",
+        "effects": ["high lethality", "energy weapon", "loud"]
+    }
+  ]
+}

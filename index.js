@@ -1,3 +1,4 @@
-console.log(`hi`);
+const { UserInterface } = require('./static/bin/cli');
 
-console.log("hellow");
+const game = new UserInterface();
+game.run();

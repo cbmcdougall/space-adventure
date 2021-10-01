@@ -1,0 +1,22 @@
+{
+  "Jim": {
+    "role": "first mate",
+    "hp": "100",
+    "status": "healthy"
+  },
+  "Sandra": {
+    "role": "medical officer",
+    "hp": "100",
+    "status": "healthy"
+  },
+  "Scotty": {
+    "role": "beamer-upper",
+    "hp": "100",
+    "status": "healthy"
+  },
+  "Nashandra": {
+    "role": "science officer",
+    "hp": "100",
+    "status": "healthy"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "mild": [
+    {
+        "name": "minor wound",
+        "description": "minor wound on random crewmate",
+        "effects": ["5-20 crewmate damage"]
+    },
+    {
+        "name": "lose ethereum (small)",
+        "description": "lose a small amount of ethereum",
+        "effects": ["25-75 ethereum loss"]
+    }
+  ],
+  "moderate": [
+    {
+        "name": "major wound",
+        "description": "major wound on random crewmate",
+        "effects": ["25-40 crewmate damage", "chance to injure/maim"]
+    },
+    {
+        "name": "lose item/ethereum (moderate)",
+        "description": "lose used item or moderate amount of ethereum",
+        "effects": ["lose item", "100-200 ethereum loss"]
+    }
+  ],
+  "severe": [
+    {
+        "name": "death",
+        "description": "death of random crewmate",
+        "effects": ["death", "chance to game-over", "crew morale loss"]
+    },
+    {
+        "name": "hull damage",
+        "description": "damage to hull of ship",
+        "effects": ["ship major damage", "chance to game-over"]
+    }
+  ]
+}

@@ -3,6 +3,12 @@
   "version": "1.0.0",
   "description": "A CLI text-based adventure set in space!",
   "main": "index.js",
+  "author": "Calum McDougall",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:cbmcdougall/space-adventure.git"
+  },
   "bin": {
     "space-adventure": "./index.js",
     "blastoff": "./index.js"
@@ -10,7 +16,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "space",
+    "text-adventure-game",
+    "cli"
+  ]
 }
