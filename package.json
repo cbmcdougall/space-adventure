@@ -1,0 +1,16 @@
+{
+  "name": "space-adventure",
+  "version": "1.0.0",
+  "description": "A CLI text-based adventure set in space!",
+  "main": "index.js",
+  "bin": {
+    "space-adventure": "./index.js",
+    "blastoff": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
